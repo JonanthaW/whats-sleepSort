@@ -1,5 +1,8 @@
 # whats-sleepSort
 
+![Sleep sort](https://github.com/JonanthaW/whats-sleepSort/blob/main/sleepSort.png "Sleep sort header")
+
+
 O **Sleep sort** é um algoritmo time-based de **ordenação** (posiciona os elementos de uma sequência/lista em uma certa ordem utilizando tempo como parâmetro) de **autoria desconhecida** apresentado pela primeira vez num relato de entrevista de emprego na [**Google**](gafter.blogspot.com/2006/11/linear-time-sort-puzzler.html?m=1) e difundido anonimamente no [**4chan**](https://web.archive.org/web/20151231221001/http://bl0ckeduser.github.io/sleepsort/sleep_sort_trimmed.html).
 
 Neste algoritmo nós criamos diferentes threads para **cada um dos elementos na sequência/lista** e colocamos cada um deles para "dormir" pela quantia de tempo proporcional ao seu valor correspondente.
@@ -22,7 +25,9 @@ Utilizamos a função *"sleep"* para adormecer uma thread até certa condição 
 
 A complexidade do Sleep Sort é bem contraditória. Alguns dizem ser  *"O(n * log(n))"*, outros dizem ser *"O(max(input)+n)"*, e tem quem diga ser *"O(NlogN + max(input))"*.
 
-[IMAGE 1]
+<div align="center">
+   <img src="https://github.com/JonanthaW/whats-sleepSort/blob/main/example.gif"/>
+</div>
 
 **Mas nem tudo é sombra e água fresca.** O tanto de problemas que tem nesse treco não dá pra contar nos dedos.
 
@@ -68,7 +73,9 @@ sleepSort(9, 16, 5, 71, 33);
 ```
 (Se você quiser ver como ficaria na sua linguagem de programação favorita, é so acessar este site aqui: [Sleep Sort em outras linguagens](https://rosettacode.org/wiki/Sorting_algorithms/Sleep_sort)).
 
-[IMAGE 2]
+<div align="center">
+   <img src="https://github.com/JonanthaW/whats-sleepSort/blob/main/cont.jpeg"/ width="600px">
+</div>
 *E isso tudinho acontecendo láaaa no background do sistema. Tudinho feito pelo OS em suas entranhas eletrônicas.*
 
 ***Interessado neste assunto?** recomendo a você alguns vídeos e materias para se aprofundar:*
@@ -80,7 +87,7 @@ sleepSort(9, 16, 5, 71, 33);
 
 
 
-<div align="center">
-  <H1>SLEEP SORT</H1>
-  <h2>If it works then it is not lazy.</h2>
-  </div>
+
+~*SLEEP SORT*
+
+~*If it works then it is not lazy.*
