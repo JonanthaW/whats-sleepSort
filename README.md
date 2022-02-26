@@ -2,6 +2,7 @@
 
 ![Sleep sort](https://github.com/JonanthaW/whats-sleepSort/blob/main/sleepSort.png "Sleep sort header")
 
+[![Profile Linkedin](https://img.shields.io/badge/Profile-Linkedin-blue)](https://pt.linkedin.com/pulse/voc%C3%AA-j%C3%A1-ouviu-falar-em-sleep-sort-jonantha-willian) ![Github](https://img.shields.io/badge/Status-Complete-green)
 
 O **Sleep sort** é um algoritmo time-based de **ordenação** (posiciona os elementos de uma sequência/lista em uma certa ordem utilizando tempo como parâmetro) de **autoria desconhecida** apresentado pela primeira vez num relato de entrevista de emprego na [**Google**](gafter.blogspot.com/2006/11/linear-time-sort-puzzler.html?m=1) e difundido anonimamente no [**4chan**](https://web.archive.org/web/20151231221001/http://bl0ckeduser.github.io/sleepsort/sleep_sort_trimmed.html).
 
