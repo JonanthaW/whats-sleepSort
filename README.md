@@ -92,3 +92,10 @@ sleepSort(9, 16, 5, 71, 33);
 ~*SLEEP SORT*
 
 ~*If it works then it is not lazy.*
+
+
+### :computer: Baixando o conteúdo:
+
+```bash
+$ git clone https://github.com/JonanthaW/Arduino-Projects.git
+```
